@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+       xmlns:app="http://schemas.android.com/apk/res-auto"
+       android:id="@+id/ll_recycler_item"
+       android:orientation="horizontal"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/iv_recycler_item"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:srcCompat="@mipmap/ic_launcher" />
+        <TextView
+            android:id="@+id/tv_recycler_item"
+            android:text="@string/hello_world"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="7dp"
+            android:textSize="18sp"/>
+
+    </LinearLayout>

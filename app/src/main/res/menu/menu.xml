@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/mainActivity"
+        android:orderInCategory="1"
+        android:title="@string/MainActivity" />
+    <item
+        android:id="@+id/activity2"
+        android:orderInCategory="1"
+        android:title="@string/Activity2"/>
+    <item
+        android:id="@+id/activity3"
+        android:orderInCategory="1"
+        android:title="@string/Activity3"/>
+</menu>

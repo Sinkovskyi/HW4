@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">HW</string>
+
+
+    <string name="hello_world">hello_world</string>
+
+
+    <string name="MainActivity">MainActivity</string>
+    <string name="Activity2">Activity2</string>
+    <string name="Activity3">Activity3</string>
+
+    <string name="nextActivityBotton">переход на следующее Activity</string>
+
+
+</resources>
